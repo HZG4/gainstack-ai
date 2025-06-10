@@ -1,10 +1,10 @@
 export const USER_PROGRAMS = [
   {
     id: 1,
-    first_name: "Sarah",
+    first_name: "Maowiz",
     profilePic: "https://randomuser.me/api/portraits/men/74.jpg",
     fitness_goal: "Weight Loss",
-    height: "5'6\"",
+    height: "5'8\"",
     weight: "165 lbs",
     age: 34,
     workout_days: 4,
@@ -39,10 +39,10 @@ export const USER_PROGRAMS = [
   },
   {
     id: 2,
-    first_name: "Michael",
+    first_name: "Hamza",
     profilePic: "https://randomuser.me/api/portraits/men/75.jpg",
     fitness_goal: "Muscle Gain",
-    height: "5'10\"",
+    height: "5'11\"",
     weight: "170 lbs",
     age: 28,
     workout_days: 5,
@@ -78,7 +78,7 @@ export const USER_PROGRAMS = [
   },
   {
     id: 3,
-    first_name: "Elena",
+    first_name: "Nafey",
     profilePic: "https://randomuser.me/api/portraits/men/76.jpg",
     fitness_goal: "General Fitness",
     height: "5'4\"",
